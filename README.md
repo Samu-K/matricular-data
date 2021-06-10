@@ -1,9 +1,9 @@
 # matricular-data
 This is a web scraping project for Finnish matricular exam data.
 
-score_limits.py has the code for the spider
-limit_scores.csv has the scrape results as of the last commit of this readme (11.6.2021)
-matricular_data.rar has the entire scrapy project.
+score_limits.py has the code for the spider \
+limit_scores.csv has the scrape results as of the last commit of this readme (11.6.2021) \
+matricular_data.rar has the entire scrapy project. \
 
 The project has two parts to  it:
 
